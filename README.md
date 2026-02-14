@@ -8,8 +8,8 @@ Desenvolvedora de Software Back-End apaixonada por resolver problemas complexos 
 - ⚙️ Sólida trajetória em **Suporte de TI**, garantindo a continuidade de processos críticos.
 
 ## 🌱 O que estou estudando & Explorando
-- **Backend Avançado:** Aprofundando em **Spring Security**, OAuth2 e arquitetura de **Microserviços**.
-- **Cloud & DevOps:** Aprendendo a containerizar aplicações com **Docker** e automação de deploy.
+- **Backend Avançado:** Aprofundando em **Testes unitários** utilizando JUnit 5 e Mockito.
+- **Cloud & DevOps:** Aprendendo a containerizar aplicações com **Docker**.
 
 ## 🛠️ Habilidades Técnicas
 
