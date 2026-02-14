@@ -1,6 +1,6 @@
 # Olá, eu sou a Ellen! 👋
 
-Desenvolvedora de Software apaixonada por resolver problemas complexos e criar soluções eficientes. Focada na construção de aplicações robustas, seguras e escaláveis.
+Desenvolvedora de Software Back-End apaixonada por resolver problemas complexos e criar soluções eficientes. Focada na construção de aplicações robustas, seguras e escaláveis.
 
 ## 🚀 Sobre Mim
 - 🎓 **Bacharel em Ciência da Computação.**
@@ -12,10 +12,7 @@ Desenvolvedora de Software apaixonada por resolver problemas complexos e criar s
 - **Cloud & DevOps:** Aprendendo a containerizar aplicações com **Docker** e automação de deploy.
 
 - ## ✨ Soft Skills
-- 👂 **Escuta Ativa**
-- 🤝 **Empatia**
-- 🧩 **Resolução de Problemas**
-- ✅ **Responsabilidade**
+- 👂 Escuta Ativa • 🤝 Empatia • 🧩 Resolução de Problemas • ✅ Responsabilidade
 
 ## 🛠️ Habilidades Técnicas
 
@@ -30,4 +27,3 @@ Desenvolvedora de Software apaixonada por resolver problemas complexos e criar s
 ## ⚡ Fun Fact
 - 🎮 Gamer nas horas vagas.
 - 🐱 Amo gatos.
-- 🌸 Minha princesa da Disney favorita é a **Mulan** (versão em desenho!!!).
