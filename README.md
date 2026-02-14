@@ -27,7 +27,7 @@ Desenvolvedora de Software apaixonada por resolver problemas complexos e criar s
 | **Low-Code** | ![Power Apps](https://img.shields.io/badge/Power_Apps-0078D4?style=flat&logo=microsoft-power-apps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white) |
 
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 - 🎮 Gamer nas horas vagas.
 - 🐱 Amo gatos.
 - 🌸 Minha princesa da Disney favorita é a **Mulan** (versão em desenho!!!).
