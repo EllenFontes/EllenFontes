@@ -32,6 +32,6 @@ Desenvolvedora de Software apaixonada por resolver problemas complexos e criar s
 ---
 
 ### ⚡ Fun Fact
-- 🎮 Gamer nas horas vagas (sempre pronta para um **The Sims 3** ou **Forza Horizon 5**).
+- 🎮 Gamer nas horas vagas.
 - 🐱 Amo gatos.
 - 🌸 Minha princesa da Disney favorita é a **Mulan** (mas somente a versão em desenho!). 
